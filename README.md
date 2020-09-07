@@ -1,0 +1,2 @@
+# HM_STR
+OCR
